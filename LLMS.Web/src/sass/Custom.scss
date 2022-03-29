@@ -1,0 +1,377 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+.container-fluid {
+  font-family: 'MetaPro-Normal', sans-serif;
+
+  header {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background-color: #ffffff;
+    border-bottom: black 1px solid;
+    z-index: 11;
+.drop{
+  .dropdown-toggle{
+    padding: 0;
+  }
+  .dropdown-menu{
+     margin-top: 25px;
+    border-radius: 0;
+   }
+}
+    .log-in-festo{
+      margin-right: 20px;
+    }
+
+    .logo {
+      height: 20px;
+      margin-bottom: 10px;
+    }
+
+    Nav {
+      text-decoration: none;
+    }
+
+
+    a {
+      vertical-align: -0.6em;
+      color: #333333;
+      text-decoration: none;
+      font-size: 16px;
+      align-items: start;
+    }
+
+    .logIn:hover {
+      color: #0587cb;
+    }
+
+    .headerHome{
+      position: relative;
+      margin-right: 20px;
+    }
+    .dropped{
+      position: relative;
+      margin-right: 20px;
+    }
+
+    .dropped:hover::after{
+      content:'';
+      position:absolute;
+      width: 100%;
+      height: 41px;
+      left:0;
+      bottom: 0;                    /* <- distance */
+      border-left: #0587cb 5px solid;
+    }
+    .dropdown-toggle::after{
+      display: none;
+    }
+    .dropdown-item.active, .dropdown-item:active{
+      background-color: #b7b7b7;
+    }
+    .dropped.active::after{
+      content:'';
+      position:absolute;
+      width: 100%;
+      height: 41px;
+      left:0;
+      bottom: 0;                    /* <- distance */
+      border-left: #0587cb 5px solid;
+    }
+    .dropped:hover {
+      a{
+        color: #0587cb;
+      }
+    }
+
+    .headerHome.active::after{
+      content:'';
+      position:absolute;
+      width: 100%;
+      height: 0;
+      left:0;
+      bottom: -26.3px;                    /* <- distance */
+      border-bottom: #0587cb 5px solid;
+    }
+
+    .headerHome:hover::after{
+      content:'';
+      position:absolute;
+      width: 100%;
+      height: 0;
+      left:0;
+      bottom: -26.3px;                    /* <- distance */
+      border-bottom: #0587cb 5px solid;
+    }
+    .headerHome:hover {
+      color: #0587cb;
+    }
+
+    .logIn {
+      margin-right: 20px;
+      margin-left: 5px;
+    }
+
+    .UserIcon {
+      height: 12px;
+      vertical-align: 0;
+    }
+  }
+}
+
+.WIP{
+  margin-left: 37%;
+  margin-top: 60px;
+}
+
+.btn-check:active+.btn-outline-secondary, .btn-check:checked+.btn-outline-secondary, .btn-outline-secondary.active, .btn-outline-secondary.dropdown-toggle.show, .btn-outline-secondary:active{
+  background-color: #b7babe !important;
+  color: #333 !important
+}
+
+.btn-outline-secondary:hover{
+  background-color: #c7cbcf !important;
+  color: #333 !important
+}
+
+.btn-outline-secondary{
+  background-color: #d8dce1 !important;
+  color: #333 !important
+}
+
+.btn-primary{
+  background-color: #0091dc !important;
+
+}
+
+.btn-primary:hover{
+  background-color: #0587cb !important;
+}
+
+.btn-primary:active{
+  background-color: #0a7eba !important;
+}
+
+.alertify-notifier {
+  .ajs-message.ajs-success{
+    background: #0587cb !important;
+  }
+  .ajs-message.ajs-warning{
+    background: #b7babe !important;
+    color: #333 !important
+  }
+}
+
+#gone{
+  visibility: hidden;
+}
+#gone.display{
+  visibility: visible;
+}
+.loading {
+  width: 2rem;
+  height: 2rem;
+  border: 5px solid #f3f3f3;
+  border-top: 6px solid #0587cb;
+  border-radius: 100%;
+  margin: 200px;
+  visibility: hidden;
+  animation: spin 1s infinite linear;
+}
+.loading.display {
+  visibility: visible;
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.den{
+  text-align: center;
+  .accessDen{
+    margin-bottom: 15%;
+  }
+}
+
+tbody, td, tfoot, th, thead, tr {
+  min-width: 64px;
+}
+
+table{
+  display: block;
+  height:600px;
+  overflow-y:scroll;
+  width:100%;
+
+  .reqActions {
+    height: 90px;
+  }
+
+
+  thead{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background-color: #e5e5e5;
+    z-index: 10;
+
+    th:after,
+    th:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      width: 100%;
+    }
+
+    th:before {
+      top: -1px;
+      border-top: 1px solid #e5e5e5;
+    }
+
+    th:after {
+      bottom: -1px;
+      border-bottom: 2px solid black;
+    }
+  }
+}
+.mailDiv{
+  width: 20%;
+  height: 625px;
+}
+.h1test{
+  text-align: center;
+}
+.testText{
+  text-align: justify;
+}
+
+footer{
+  background-color: #f2f3f5;
+  .footer-links a{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    color: #99a9b4;
+    text-align: right;
+    margin-right: 22px;
+    margin-bottom: 25px;
+  }
+  .lastA{
+    margin-right: 0 !important;
+  }
+  .footer-copyright{
+    text-align: left;
+    color:  #99a9b4;
+    font-size: 12px;
+  }
+
+  .footer-right , .footer-left{
+    display: inline-block;
+    vertical-align: bottom;
+  }
+
+  .footer-left{
+    width: 50%;
+    bottom: 0;
+  }
+
+  .footer-right{
+    width: 40%;
+    text-align: right;
+  }
+
+  .afooter {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1rem;
+
+  }
+}
+
+#seleDiv{
+  visibility: hidden;
+}
+#seleDiv.display{
+  visibility: visible;
+}
+.formU {
+  height: 460px;
+  margin-bottom: 40px;
+}
+
+.formR {
+  height: 200px;
+}
+.search {
+  margin-top: 25px;
+  width: 32%
+}
+.hText {
+  margin-bottom: 40px;
+}
+
+.hLabel {
+  margin: 10px 0 10px 0;
+}
+
+.btn-group-vertical {
+  margin-top: 90px;
+  margin-bottom: 85px;
+}
+
+.commentForm {
+  height: 200px;
+}
+
+.buttonDiv {
+
+}
+
+.nRDiv {
+  margin-top: 35px;
+  margin-bottom: 15px;
+  margin-left: 30px;
+}
+
+.nRCDiv {
+  margin-top: 35px;
+}
+
+.nRCBDiv {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.nRBDiv {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.newClassBtn {
+  width: 150px;
+  margin-bottom: 40px;
+}
+
+.classSDiv {
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
+
+.classForm {
+  margin-top: 35px;
+}
+
+.classBtnDiv {
+  margin-top: 130px;
+}
+
+.cTableHeader{
+  margin-top: 30px;
+  margin-bottom: 20px;
+}

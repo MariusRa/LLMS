@@ -1,0 +1,516 @@
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\appsettings.json
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\LLMS.exe
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\LLMS.deps.json
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\LLMS.runtimeconfig.json
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\LLMS.runtimeconfig.dev.json
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\LLMS.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ref\LLMS.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\LLMS.pdb
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.AssemblyInfo.cs
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\staticwebassets\LLMS.StaticWebAssets.Manifest.cache
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\staticwebassets\LLMS.StaticWebAssets.xml
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\scopedcss\bundle\LLMS.styles.css
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.RazorTargetAssemblyInfo.cache
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.csproj.CopyComplete
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\ref\LLMS.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.pdb
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\obj\Debug\net5.0\LLMS.genruntimeconfig.cache
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\IdentityServer4.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\LLMS.StaticWebAssets.xml
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Marius\Desktop\KITM project\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\appsettings.json
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\LLMS.StaticWebAssets.xml
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\LLMS.exe
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\LLMS.deps.json
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\LLMS.runtimeconfig.json
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\LLMS.runtimeconfig.dev.json
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\LLMS.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ref\LLMS.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\LLMS.pdb
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\IdentityServer4.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.AssemblyInfo.cs
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\staticwebassets\LLMS.StaticWebAssets.Manifest.cache
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\staticwebassets\LLMS.StaticWebAssets.xml
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\scopedcss\bundle\LLMS.styles.css
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.RazorTargetAssemblyInfo.cache
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.csproj.CopyComplete
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\ref\LLMS.dll
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.pdb
+C:\Users\Marius\Desktop\New folder (4)\all41API\all41.API\LLMS\obj\Debug\net5.0\LLMS.genruntimeconfig.cache
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\appsettings.json
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\LLMS.StaticWebAssets.xml
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\LLMS.exe
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\LLMS.deps.json
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\LLMS.runtimeconfig.json
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\LLMS.runtimeconfig.dev.json
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\LLMS.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ref\LLMS.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\LLMS.pdb
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\IdentityServer4.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.csproj.AssemblyReference.cache
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.AssemblyInfo.cs
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\staticwebassets\LLMS.StaticWebAssets.Manifest.cache
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\staticwebassets\LLMS.StaticWebAssets.xml
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\scopedcss\bundle\LLMS.styles.css
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.RazorTargetAssemblyInfo.cache
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.csproj.CopyComplete
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\ref\LLMS.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.pdb
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\obj\Debug\net5.0\LLMS.genruntimeconfig.cache
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Marius\Desktop\LMMSAPI\all41.API\LLMS\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
